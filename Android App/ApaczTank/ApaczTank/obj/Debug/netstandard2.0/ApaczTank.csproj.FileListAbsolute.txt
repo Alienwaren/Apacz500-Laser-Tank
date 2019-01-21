@@ -1,0 +1,17 @@
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\bin\Debug\netstandard2.0\ApaczTank.deps.json
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\bin\Debug\netstandard2.0\ApaczTank.dll
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\bin\Debug\netstandard2.0\ApaczTank.pdb
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\ApaczTank.csprojAssemblyReference.cache
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\ApaczTank.csproj.CoreCompileInputs.cache
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\ApaczTank.AssemblyInfoInputs.cache
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\ApaczTank.AssemblyInfo.cs
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\ApaczTank.dll
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\ApaczTank.pdb
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\BluetoothDevicesPage.xaml.g.cs
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\RootPage.xaml.g.cs
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank\obj\Debug\netstandard2.0\ApaczTank.csproj.CopyComplete

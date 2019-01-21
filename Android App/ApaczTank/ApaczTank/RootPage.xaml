@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ApaczTank"
+             x:Class="ApaczTank.RootPage"
+             Title="ApaczLazorTankController"
+             >
+    
+    <ContentPage.Content>
+        <Grid x:Name="Root" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Label Text="Battery voltage: "  Grid.ColumnSpan="2"/>
+            <Label Text="First sensor: "  Grid.ColumnSpan="2" Grid.Row="1"/>
+            <Label Text="Second sensor: "  Grid.ColumnSpan="2" Grid.Row="2"/>
+
+            <Label ClassId="VoltageValue" Grid.Row="0" Grid.Column="3" Text="a_value"></Label>
+            <Label ClassId="FirstSensor" Grid.Row="1" Grid.Column="3" Text="a_value"></Label>
+            <Label ClassId="SecondSensor" Grid.Row="2" Grid.Column="3" Text="a_value"></Label>
+            <Button ClassId="ForwardButton" Text="Forward" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="3" Pressed="TankControlOnClick" Released="StopSendingCommandsOnButtonRelease"></Button>
+            <Button ClassId="BackButton" Text="Backwards" Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="3"  Pressed="TankControlOnClick" Released="StopSendingCommandsOnButtonRelease"></Button>
+            <Button ClassId="LeftButton" Text="Left" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"  Pressed="TankControlOnClick" Released="StopSendingCommandsOnButtonRelease"></Button>
+            <Button ClassId="RightButton" Text="Right" Grid.Row="4" Grid.Column="5" Grid.ColumnSpan="2"  Pressed="TankControlOnClick" Released="StopSendingCommandsOnButtonRelease"></Button>
+            <Button ClassId="FireButton" Text="Fire!" Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="3"  Pressed="TankControlOnClick" Released="StopSendingCommandsOnButtonRelease"></Button>
+
+            <Button Text="Bluetooth Settings" Grid.ColumnSpan="3" Grid.Row="6" Grid.Column="2" Clicked="NavigateToBluetoothSettings"></Button>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

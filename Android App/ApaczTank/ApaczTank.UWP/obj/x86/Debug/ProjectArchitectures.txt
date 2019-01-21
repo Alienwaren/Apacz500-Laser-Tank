@@ -1,0 +1,1 @@
+D:\Repos\ApaczTank\ApaczTank\ApaczTank\ApaczTank.UWP\ApaczTank.UWP.csproj;x86
