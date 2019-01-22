@@ -1,0 +1,442 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.13)  22 JAN 2019 19:26
+entering extended mode
+**./docs.tex
+(docs.tex
+LaTeX2e <2018-04-01> patch level 5
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
+y"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+ ("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) ("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/10/16 3.26 The Babel package
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+"
+File: switch.def 2018/10/16 3.26 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-polish\polis
+h.ldf"
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/10/16 3.26 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen105
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count90
+)
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen106
+\pl@down=\dimen107
+\pl@right=\dimen108
+\pl@temp=\dimen109
+))
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.
+sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks17
+\float@box=\box26
+\@float@everytoks=\toks18
+\@floatcapt=\box27
+)
+(docs.aux)
+\openout1 = `docs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 11.
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen110
+\scratchbox=\box28
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen111
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 13.
+ ("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 13.
+ ("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 13.
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 13.
+
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 13.
+
+Overfull \hbox (59.6343pt too wide) in paragraph at lines 13--13
+ [][] 
+ []
+
+[1
+
+{C:/Users/dkpol/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Rozdzia\l  1.
+[1
+
+]
+Rozdzia\l  2.
+
+Overfull \hbox (5.16429pt too wide) in paragraph at lines 27--29
+\T1/lmr/m/n/10 przy po-mocy po-le-ce-nia \T1/lmr/m/it/10 git clone https://gith
+ub.com/Alienwaren/Apacz500-Laser-
+ []
+
+<visual_1.png, id=12, 1063.72406pt x 790.45313pt>
+File: visual_1.png Graphic file (type png)
+<use visual_1.png>
+Package pdftex.def Info: visual_1.png  used on input line 38.
+(pdftex.def)             Requested size: 319.11967pt x 237.13776pt.
+[2
+
+]
+<code_1.png, id=19, 1446.15282pt x 789.70032pt>
+File: code_1.png Graphic file (type png)
+<use code_1.png>
+Package pdftex.def Info: code_1.png  used on input line 49.
+(pdftex.def)             Requested size: 361.53732pt x 197.42459pt.
+
+Overfull \hbox (16.53732pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+[3 <./visual_1.png>]
+<code_2.png, id=24, 1446.15282pt x 789.70032pt>
+File: code_2.png Graphic file (type png)
+<use code_2.png>
+Package pdftex.def Info: code_2.png  used on input line 57.
+(pdftex.def)             Requested size: 361.53732pt x 197.42459pt.
+
+Overfull \hbox (16.53732pt too wide) in paragraph at lines 57--58
+ [][] 
+ []
+
+[4 <./code_1.png> <./code_2.png>]
+Rozdzia\l  3.
+
+Overfull \hbox (1.83176pt too wide) in paragraph at lines 62--63
+[]\T1/lmr/m/n/10 Uruchomienie pro-jektu b¦-dzie wy-ma-gaªo wgra-nia opro-gra-mo
+-wa-nia na zgodny
+ []
+
+<visual_2.png, id=30, 1445.4pt x 790.45313pt>
+File: visual_2.png Graphic file (type png)
+<use visual_2.png>
+Package pdftex.def Info: visual_2.png  used on input line 68.
+(pdftex.def)             Requested size: 361.34912pt x 197.6128pt.
+
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 68--70
+ [][] 
+ []
+
+[5
+
+]
+<platform_1.png, id=34, 1446.15282pt x 789.70032pt>
+File: platform_1.png Graphic file (type png)
+<use platform_1.png>
+Package pdftex.def Info: platform_1.png  used on input line 83.
+(pdftex.def)             Requested size: 361.53732pt x 197.42459pt.
+
+Overfull \hbox (16.53732pt too wide) in paragraph at lines 83--84
+ [][] 
+ []
+
+[6 <./visual_2.png>]
+<platform_2.png, id=40, 243.91125pt x 14.30344pt>
+File: platform_2.png Graphic file (type png)
+<use platform_2.png>
+Package pdftex.def Info: platform_2.png  used on input line 89.
+(pdftex.def)             Requested size: 243.91064pt x 14.30339pt.
+ [7 <./platform_1.png> <./platform_2.png>]
+Rozdzia\l  4.
+<tank_1.jpg, id=46, 4015.0pt x 2007.5pt>
+File: tank_1.jpg Graphic file (type jpg)
+<use tank_1.jpg>
+Package pdftex.def Info: tank_1.jpg  used on input line 100.
+(pdftex.def)             Requested size: 401.52353pt x 200.76175pt.
+
+Overfull \hbox (56.52353pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+[8
+
+ <./tank_1.jpg>]
+<eagle_1.png, id=50, 1014.03844pt x 584.93532pt>
+File: eagle_1.png Graphic file (type png)
+<use eagle_1.png>
+Package pdftex.def Info: eagle_1.png  used on input line 113.
+(pdftex.def)             Requested size: 405.60818pt x 233.96997pt.
+
+Overfull \hbox (60.60818pt too wide) in paragraph at lines 113--114
+ [][] 
+ []
+
+<eagle_2.png, id=51, 836.3747pt x 629.35126pt>
+File: eagle_2.png Graphic file (type png)
+<use eagle_2.png>
+Package pdftex.def Info: eagle_2.png  used on input line 120.
+(pdftex.def)             Requested size: 334.54396pt x 251.73604pt.
+[9 <./eagle_1.png>]
+<eagle_3.png, id=56, 944.02687pt x 648.17157pt>
+File: eagle_3.png Graphic file (type png)
+<use eagle_3.png>
+Package pdftex.def Info: eagle_3.png  used on input line 127.
+(pdftex.def)             Requested size: 377.60405pt x 259.26402pt.
+
+Overfull \hbox (32.60405pt too wide) in paragraph at lines 127--128
+ [][] 
+ []
+
+[10 <./eagle_2.png>]
+<tank_2.jpg, id=61, 4015.0pt x 2007.5pt>
+File: tank_2.jpg Graphic file (type jpg)
+<use tank_2.jpg>
+Package pdftex.def Info: tank_2.jpg  used on input line 133.
+(pdftex.def)             Requested size: 401.52353pt x 200.76175pt.
+
+Overfull \hbox (56.52353pt too wide) in paragraph at lines 133--134
+ [][] 
+ []
+
+[11 <./eagle_3.png>]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 142.
+
+
+("C:\Users\dkpol\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 142.
+<android_1.png, id=66, 361.35pt x 642.90187pt>
+File: android_1.png Graphic file (type png)
+<use android_1.png>
+Package pdftex.def Info: android_1.png  used on input line 149.
+(pdftex.def)             Requested size: 216.81168pt x 385.7441pt.
+<android_2.png, id=67, 361.35pt x 642.90187pt>
+File: android_2.png Graphic file (type png)
+<use android_2.png>
+Package pdftex.def Info: android_2.png  used on input line 154.
+(pdftex.def)             Requested size: 216.81168pt x 385.7441pt.
+
+[12 <./tank_2.jpg>] [13 <./android_1.png>] [14 <./android_2.png>] [15]
+(docs.aux) ) 
+Here is how much of TeX's memory you used:
+ 2553 strings out of 492969
+ 37166 string characters out of 3126585
+ 103710 words of memory out of 3000000
+ 6361 multiletter control sequences out of 15000+200000
+ 49999 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,25p,434b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/dkpol/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/l
+m/lm-mathsy.enc}{C:/Users/dkpol/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvi
+ps/lm/lm-ec.enc}<C:/Users/dkpol/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmbx10.pfb><C:/Users/dkpol/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmbx12.pfb><C:/Users/dkpol/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/lm/lmr10.pfb><C:/Users/dkpol/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmr12.pfb><C:/Users/dkpol/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/lm/lmr17.pfb><C:/Users/dkpol/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/dkpol/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on docs.pdf (16 pages, 7537235 bytes).
+PDF statistics:
+ 109 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
